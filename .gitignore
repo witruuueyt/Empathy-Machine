@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Empathy-Machine/Library
+/Empathy-Machine/obj/Debug
+/Empathy-Machine/UserSettings
